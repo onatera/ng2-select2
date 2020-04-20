@@ -42,7 +42,7 @@ export class Select2Component implements AfterViewInit, OnChanges, OnDestroy, On
     private element: JQuery = undefined;
     private check: boolean = false;
 
-    constructor(private renderer: Renderer) { }
+    constructor(private renderer: Renderer2) { }
 
     ngOnInit() {
         if(this.cssImport) {
