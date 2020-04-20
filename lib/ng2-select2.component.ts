@@ -1,6 +1,6 @@
 import {
     AfterViewInit, ChangeDetectionStrategy, Component, ElementRef, EventEmitter, Input, OnChanges, OnDestroy,
-    Output, SimpleChanges, ViewChild, ViewEncapsulation, Renderer, OnInit
+    Output, SimpleChanges, ViewChild, ViewEncapsulation, Renderer2, OnInit
 } from '@angular/core';
 
 import { Select2OptionData } from './ng2-select2.interface';
