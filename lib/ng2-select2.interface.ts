@@ -2,7 +2,7 @@ export interface Select2OptionData {
     id: string;
     text: string;
     disabled?: boolean;
-    children?: Array<Select2OptionData>;
+    children?: Select2OptionData[];
     additional?: any;
 }
 
