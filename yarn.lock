@@ -136,6 +136,11 @@ minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
+ngc@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/ngc/-/ngc-1.0.0.tgz#844c2bff914fac9e02597b608d3430c72cfd6209"
+  integrity sha1-hEwr/5FPrJ4CWXtgjTQwxyz9Ygk=
+
 once@^1.3.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/once/-/once-1.4.0.tgz#583b1aa775961d4b113ac17d9c50baef9dd76bd1"
